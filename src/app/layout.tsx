@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Basic Programming | Bytewise",
+  title: "Basic Programming",
   description: "Learn the foundations of programming through short lessons and interactive challenges.",
 };
 
